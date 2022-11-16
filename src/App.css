@@ -1,0 +1,19 @@
+.App {
+  padding: 10px;
+  text-align: center;
+}
+
+#editor {
+  width: 50%;
+  height: 25vh;
+  padding-bottom: 5vh;
+  margin: auto;
+  margin-bottom: 5vh;
+}
+
+#preview {
+  width: 60%;
+  height: 65vh;
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+}
